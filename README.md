@@ -18,3 +18,4 @@ UNIVERSIDAD NACIONAL DE PIURA, PERU
     Corrimiento de izquierda a derecha de leds conectados al puerto C, con retardos de 250ms para corrimientos impares y retados de 500ms para pares
 2. P2-Display_7SEG:
     Te muestra en un display anodo comun un conteo alfanumerico de 0-9 y A-F
+3. Retardos.inc
